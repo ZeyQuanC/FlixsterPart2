@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project 4 Flixster+ Part 2</string>
+    <string name="profile_image">profile image</string>
+    <string name="poster_image">poster image</string>
+    <string name="poster_image_description">poster image</string>
+</resources>
